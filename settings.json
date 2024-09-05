@@ -2,7 +2,7 @@
     "workbench.iconTheme":              "symbols",
     "workbench.colorTheme":             "Min Dark",
 
-    "editor.fontFamily":                "Hack Nerd Font, 'Courier New', monospace",
+    "editor.fontFamily":                "JetBrains Mono",
     "editor.fontLigatures":             true,
     "editor.fontSize":                  14,
     "editor.lineHeight":                1.8,
@@ -266,5 +266,6 @@
 
     "http.proxyAuthorization":          null,
     "http.proxySupport":                "on",
-    "http.proxyStrictSSL":              false,
+    "http.proxyStrictSSL": false,
+    "cmake.showOptionsMovedNotification": false
 }
