@@ -264,8 +264,8 @@
     "window.commandCenter":             false,
     "workbench.layoutControl.enabled":  false,
 
-    "http.proxyAuthorization":          null,
-    "http.proxySupport":                "on",
-    "http.proxyStrictSSL": false,
-    "cmake.showOptionsMovedNotification": false
+    "http.proxyAuthorization":              null,
+    "http.proxySupport":                    "on",
+    "http.proxyStrictSSL":                  false,
+    "cmake.showOptionsMovedNotification":   false
 }
